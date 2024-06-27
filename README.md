@@ -1,9 +1,3 @@
-This repo was forked from a classmate's SSG tool as part of a collaborative coursework assignment for an open-source dev. course.  
-I worked on [Issue #8](https://github.com/sfrunza13/SiteGenerationTool/issues/8).  
-Original ReadMe below this line.
-
----
-
 # SiteGenerationTool
 Author: Stefan Frunza
 
